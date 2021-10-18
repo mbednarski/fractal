@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "fractal"
 version = "0.1.0"
-description = ""
+description = "Experiments with fractals generated in numba/cuda for fun and learning."
 authors = ["Mateusz Bednarski <mateusz.bednarski@windowslive.com>"]
 
 [tool.poetry.dependencies]
